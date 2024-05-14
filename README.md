@@ -5,7 +5,8 @@
 
 <h2>📄 Certifications:</h2>
 
-
+- [CompTIA Network+](https://www.credly.com/badges/178676f0-0133-42a4-b4ee-a1a51ae8ddcc/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/25d326c4-3c66-499b-b9a9-0ff554801e82/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
