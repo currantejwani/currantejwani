@@ -7,6 +7,9 @@
 
 - [CompTIA Network+](https://www.credly.com/badges/178676f0-0133-42a4-b4ee-a1a51ae8ddcc/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/25d326c4-3c66-499b-b9a9-0ff554801e82/public_url)
+- [Junior Penetration Tester (eJPT)](https://scq.io/iYP5xuq)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d67f6395-0fc2-44c1-a41b-b9be308f4920/public_url)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/karantejwani-3416/credentials/db226538b6eee0da?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2> 🤳 Connect with me:</h2>
 
