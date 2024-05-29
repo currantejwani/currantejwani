@@ -3,6 +3,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+
+- <b>Python Web-Server</b>
+  - [Created a web server from scratch](https://github.com/currantejwani/web-server)
+- <b>SOC Training</b>
+  - [Practised various SOC tools](https://github.com/currantejwani/web-server)
+
+
 <h2>📄 Certifications:</h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/178676f0-0133-42a4-b4ee-a1a51ae8ddcc/public_url)
