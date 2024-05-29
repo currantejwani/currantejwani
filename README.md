@@ -6,9 +6,9 @@
 
 
 - <b>Python Web-Server</b>
-  - [Created a web server from scratch](https://github.com/currantejwani/web-server)
+  - [Developed a web server from scratch, implementing essential functionalities.](https://github.com/currantejwani/web-server)
 - <b>SOC Training</b>
-  - [Practised various SOC tools](https://github.com/currantejwani/web-server)
+  - [Practiced and gained hands-on experience with various SOC tools](https://github.com/currantejwani/web-server)
 
 
 <h2>📄 Certifications:</h2>
