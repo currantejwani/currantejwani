@@ -4,8 +4,8 @@
 
 - <b>Python Web-Server</b>
   - [Developed a web server from scratch, implementing essential functionalities.](https://github.com/currantejwani/web-server)
-- <b>SOC Training</b>
-  - [Practiced and gained hands-on experience with various SOC tools](https://github.com/currantejwani/web-server)
+- <b>Cloud Home Lab</b>
+  - [Practiced and gained hands-on experience with various SOC tools](https://github.com/currantejwani/Cloud_HomeLab)
 
 ### ☁️ Cloud Projects:
 
