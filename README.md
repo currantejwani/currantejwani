@@ -16,8 +16,11 @@
 
 - [CompTIA Network+](https://www.credly.com/badges/178676f0-0133-42a4-b4ee-a1a51ae8ddcc/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/25d326c4-3c66-499b-b9a9-0ff554801e82/public_url)
+- [CompTIA CySA+](https://www.credly.com/badges/aa8b033b-2db0-4869-afa6-08c84e028031/public_url)
+- [CompTIA Security Analytics Professional – CSAP](https://www.credly.com/badges/56f221d4-3c3b-431a-b063-97301c34e0a9/public_url)
 - [Junior Penetration Tester (eJPT)](https://scq.io/iYP5xuq)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d67f6395-0fc2-44c1-a41b-b9be308f4920/public_url)
+- [AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/d67f6395-0fc2-44c1-a41b-b9be308f4920/public_url)
+- [AWS Certified Solutions Architect – Associate (SAA)](https://www.credly.com/badges/c4297fd1-30ae-4770-823f-09206048a611/public_url)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/karantejwani-3416/credentials/db226538b6eee0da?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ### ⚡️ Technologies
